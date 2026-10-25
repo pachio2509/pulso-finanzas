@@ -1,0 +1,4 @@
+Fecha,Descripción,Importe,Moneda,Dirección,Estado,Clase de flujo,Asignación,Clave de deduplicación
+2026-01-15,Compra ficticia Excel,123.45,MXN,outgoing,paid,expense,personal,xlsx-ficticio-uno
+2026-01-15,Entrada ficticia Excel,4321,MXN,incoming,received,income,personal,xlsx-ficticio-dos
+2026-01-15,Traspaso ficticio Excel,800,MXN,outgoing,paid,transfer,personal,xlsx-ficticio-tres

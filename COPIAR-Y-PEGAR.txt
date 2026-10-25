@@ -1,0 +1,12 @@
+Instala mi dashboard personal desde https://github.com/pachio2509/pulso-finanzas. Si no puedes descargar el repositorio, usa el ZIP de Pulso que adjunte.
+
+Lee skills/pulso-finanzas/SKILL.md. Primero detecta si puedes ejecutar y guardar archivos en mi computadora, solo en una máquina temporal, o únicamente responder en el chat. Explícame la diferencia y sigue la ruta que sí funcione.
+
+Usa una carpeta persistente, empieza sin datos y abre el dashboard. Si pruebas la demo, identifícala como ficticia. Conserva mis archivos originales.
+
+Ayúdame a conectar mi propio Gmail si mi chat dispone de ese conector, pidiendo mi autorización en el servicio. Usa solo lectura para preparar movimientos verificables. Si no está disponible, guíame para importar un Excel, CSV o JSON. Nunca me pidas contraseñas, tokens ni códigos de acceso.
+
+No inventes importes, fechas, monedas, ingresos ni saldos. Separa los traspasos, los duplicados, los pendientes y las operaciones de naturaleza desconocida. Pregunta mi criterio para gastos personales y empresariales.
+
+Verifica que el dashboard abre, prueba las cifras contra mi archivo y dame instrucciones cortas para volver a abrirlo y actualizarlo. No publiques mis finanzas ni actives tareas o conexiones persistentes sin una solicitud explícita.
+

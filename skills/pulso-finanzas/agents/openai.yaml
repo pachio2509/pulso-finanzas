@@ -1,0 +1,5 @@
+interface:
+  display_name: "Pulso · Finanzas personales"
+  short_description: "Instala tu dashboard privado y prepara tus datos"
+  default_prompt: "Usa $pulso-finanzas para instalar mi dashboard y guiar la importación de mis datos."
+

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "demo": true,
+    "coverage": "Ejemplo enteramente ficticio para comprobar la instalación."
+  },
+  "events": [
+    {
+      "key": "ejemplo-uno",
+      "date": "2026-01-15",
+      "description": "Servicio ficticio",
+      "amount": 4321,
+      "currency": "MXN",
+      "direction": "incoming",
+      "state": "received",
+      "flow": "income",
+      "allocation": "personal"
+    },
+    {
+      "key": "ejemplo-dos",
+      "date": "2026-01-15",
+      "description": "Compra ficticia",
+      "amount": 123.45,
+      "currency": "MXN",
+      "direction": "outgoing",
+      "state": "paid",
+      "flow": "expense",
+      "allocation": "personal"
+    },
+    {
+      "key": "ejemplo-tres",
+      "date": "2026-01-15",
+      "description": "Traspaso ficticio",
+      "amount": 800,
+      "currency": "MXN",
+      "direction": "outgoing",
+      "state": "paid",
+      "flow": "transfer"
+    },
+    {
+      "key": "ejemplo-cuatro",
+      "date": "2026-01-15",
+      "description": "Depósito por identificar ficticio",
+      "amount": 77,
+      "currency": "USD",
+      "direction": "incoming",
+      "state": "received",
+      "flow": "unknown"
+    }
+  ],
+  "pending": [
+    {
+      "key": "pendiente-ejemplo",
+      "kind": "receivable",
+      "party": "Cliente ficticio",
+      "description": "Servicio por cobrar ficticio",
+      "amount": 654,
+      "currency": "MXN",
+      "state": "pendiente",
+      "date": null
+    }
+  ]
+}
+
